@@ -2,11 +2,7 @@
 I'm CS UG at SUSTech, Shenzhen, China.
 I'm interested in OS, Compilers, and Computer Systems, with a growing focus on Systems Infrastructure and High-Performance Systems.
 I enjoy understanding how software works under the hood, exploring low-level concepts, and building things from scratch.
-## Skills
-- **Languages:** Java, C, C#, Python
-- **Compilers:** Lexing, Parsing, ASTs, Bytecode, Virtual Machines
-- **Tools:** Git, GitHub
-<!--
+
 **nmquan1223/nmquan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
